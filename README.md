@@ -24,6 +24,11 @@ It provides insights into total imports, top countries, top categories, and year
   - `HS Code Category.csv` → HS code mapping for import categories
 - **PowerBi-file**
   - `Bahrain Import Dashboard.pbit` → Power BI Template (dashboard structure, connects to CSVs)
+    
+---
 
-
+## Tools Used
+- Power BI Desktop  
+- Power Query (ETL)  
+- DAX (custom measures & calculations)  
 
